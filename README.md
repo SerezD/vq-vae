@@ -6,6 +6,8 @@ Original paper: https://arxiv.org/abs/1711.00937
 
 Keras implementation: https://keras.io/examples/generative/vq_vae/
 
+Original code by deepmind: https://github.com/deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py
+
 This example is based on CIFAR10 dataset(https://www.cs.toronto.edu/~kriz/cifar.html), and will automatically download it if you run the main script.
 
 WandB logs are also included. 
